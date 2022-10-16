@@ -1,0 +1,32 @@
+run:
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:@ Next State: a Write:@ Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:1 Direction: R
+Current State: a Read:& Next State: a Write:0 Direction: R
+Current State: a Read:$ Next State: b Write:# Direction: L
+Current State: b Read:0 Next State: c Write:# Direction: L
+Current State: c Read:1 Next State: x Write:# Direction: L
+111111111111@111111111111&$: Rejected
+BUILD SUCCESSFUL (total time: 0 seconds)

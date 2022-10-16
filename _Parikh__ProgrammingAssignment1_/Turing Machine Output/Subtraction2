@@ -1,0 +1,19 @@
+run:
+Current State: a Read:0 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:0 Direction: R
+Current State: a Read:1 Next State: a Write:0 Direction: R
+Current State: a Read:1 Next State: a Write:0 Direction: R
+Current State: a Read:1 Next State: a Write:0 Direction: R
+Current State: a Read:1 Next State: a Write:0 Direction: R
+Current State: a Read:c Next State: a Write:c Direction: R
+Current State: a Read:0 Next State: a Write:1 Direction: R
+Current State: a Read:0 Next State: a Write:1 Direction: R
+Current State: a Read:0 Next State: a Write:1 Direction: R
+Current State: a Read:1 Next State: a Write:0 Direction: R
+Current State: a Read:0 Next State: a Write:1 Direction: R
+Current State: a Read:0 Next State: a Write:1 Direction: R
+Current State: a Read:# Next State: b Write:# Direction: L
+Current State: b Read:1 Next State: d Write:# Direction: L
+Current State: d Read:1 Next State: x Write:# Direction: L
+011111c000100: Rejected
+BUILD SUCCESSFUL (total time: 0 seconds)

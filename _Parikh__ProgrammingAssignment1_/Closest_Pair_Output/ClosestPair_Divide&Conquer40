@@ -1,0 +1,6 @@
+run:
+Number of Points Generated: 40
+Closest distance: 4.123105625617661
+Divide and Conquer Elapsed Time: 0.006 seconds
+[java.awt.Point[x=4,y=114], java.awt.Point[x=6,y=153], java.awt.Point[x=13,y=32], java.awt.Point[x=19,y=159], java.awt.Point[x=21,y=77], java.awt.Point[x=23,y=66], java.awt.Point[x=40,y=171], java.awt.Point[x=45,y=137], java.awt.Point[x=47,y=91], java.awt.Point[x=50,y=148], java.awt.Point[x=54,y=131], java.awt.Point[x=58,y=126], java.awt.Point[x=64,y=28], java.awt.Point[x=71,y=59], java.awt.Point[x=87,y=36], java.awt.Point[x=88,y=95], java.awt.Point[x=91,y=39], java.awt.Point[x=97,y=94], java.awt.Point[x=103,y=97], java.awt.Point[x=104,y=93], java.awt.Point[x=119,y=151], java.awt.Point[x=123,y=92], java.awt.Point[x=132,y=40], java.awt.Point[x=133,y=192], java.awt.Point[x=136,y=155], java.awt.Point[x=139,y=134], java.awt.Point[x=148,y=179], java.awt.Point[x=149,y=190], java.awt.Point[x=151,y=144], java.awt.Point[x=154,y=84], java.awt.Point[x=155,y=109], java.awt.Point[x=157,y=175], java.awt.Point[x=159,y=200], java.awt.Point[x=168,y=33], java.awt.Point[x=170,y=10], java.awt.Point[x=173,y=163], java.awt.Point[x=179,y=161], java.awt.Point[x=184,y=60], java.awt.Point[x=187,y=76], java.awt.Point[x=198,y=122]]
+BUILD SUCCESSFUL (total time: 0 seconds)

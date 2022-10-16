@@ -1,0 +1,8 @@
+run:
+Number of Test Points: 40 
+Starting Point: (4,41)
+Closest Point: (22.0,39.0)
+Distance from Starting Point to Closest Point: 18.110770276274835
+Brute Force Elapsed Time: 0.005 seconds
+
+BUILD SUCCESSFUL (total time: 0 seconds)
