@@ -1,0 +1,9 @@
+run:
+String X: 101
+String Y: 00
+String S: 100010101
+
+S is an interweaving of X and Y
+Number of Comparisons: 10
+
+BUILD SUCCESSFUL (total time: 0 seconds)
